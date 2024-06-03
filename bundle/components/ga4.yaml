@@ -1,0 +1,10 @@
+name: ga4
+category: DATA
+pack: main
+entrypoint: components/ga4/ga4
+title: Google Analytics
+discoverable: true
+description: A google analytics measurement component
+properties:
+defaultDefinition:
+sections:
