@@ -1,4 +1,5 @@
 name: ga4
+public: true
 category: DATA
 pack: main
 entrypoint: components/ga4/ga4
